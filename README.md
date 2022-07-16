@@ -11,7 +11,7 @@ Telegram Bot to Bulk Downloading list of urls and Upload to Telegram.
 
 ## Telegram Support:
 
-[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/xTeamBots)
+[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://heroku.com/deploy?template=https://github.com/kannadamoviesrequestbot/BulkLoader)
 [![Group](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/xTeamBotsSupport)
 
 ## Credits, and Thanks to
